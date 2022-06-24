@@ -1,0 +1,14 @@
+{
+    "href":"/deals?ref_=nav_cs_gb",
+    "img" :"src ='https://m.media-amazon.com/images/I/31NmWpDfMZL.jpg" ,
+    "class":"a-button-inner",
+
+    "menu" :".hmenu-visible > :nth-child(3) > .hmenu-item" ,
+    
+    "checkBox" :"nth-child(3) > .a-unordered-list > .a-spacing-micro > .a-list-item > .a-link-normal > .a-checkbox > label > .a-icon" ,
+    
+    "Id":"ap_password','admit123" ,
+
+    "mainMenu":"nav-link-accountList"
+}
+   
